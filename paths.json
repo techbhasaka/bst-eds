@@ -1,5 +1,9 @@
 {
   "mappings": [
-    "/content/edssite/:/"
+    "/content/edssite/:/",
+    "/content/edssite/configuration:/.helix/config.json"
+  ],
+  "includes": [
+    "/content/edssite/"
   ]
 }
